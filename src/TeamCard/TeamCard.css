@@ -1,0 +1,10 @@
+.team-card {
+    display: flex;
+    flex-direction: column;
+    border: 2px blue solid;
+    margin: 3%;
+}
+
+button {
+    font-weight: bold;
+}
